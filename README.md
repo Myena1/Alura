@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou a @Myena1
 - 👀 Estou interessada em Dormir
 - 🌱 Estou aprendendo Programação
-- 😄 Pronomes: QUalquer um
+- 😄 Pronomes: Qualquer um
 - ⚡ Fun fact: Gosto de Rpgs
 
 <!---
