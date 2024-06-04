@@ -1,7 +1,6 @@
 - 👋 Oi, eu sou a Lorena
 - 👀 Estou interessada em Dormir
-- 🌱 Estou aprendendo Pr
-- ogramação
+- 🌱 Estou aprendendo Programação
 - 😄 Pronomes: Qualquer um
 - ⚡ Fun fact: Gosto de Rpgs
 
