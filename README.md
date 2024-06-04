@@ -1,6 +1,7 @@
 Oi, eu sou a Lorena e estou aprendendo Programação
-Pronomes: Qualquer um
-Fun fact: Gosto de Rpgs e jogos online
+- Meus pronomes: Qualquer um
+- Um fun fact: Gosto de Rpgs e jogos online
+- Meu animal favorito: Gatos
 
 ![](https://media1.tenor.com/m/47qpxBq_Tw0AAAAd/cat-cat-meme.gif)
 
